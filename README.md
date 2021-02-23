@@ -1,5 +1,7 @@
 # docker
 ### Ports are not available
+```cmd
 net stop winnat
-docker start ... hoặcrestart lại docker
+docker start ... hoặc restart lại docker
 net start winnat
+```
